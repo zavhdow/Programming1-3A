@@ -1,2 +1,0 @@
-cool, that's how you make folders!
-when naming a new file you type desiredFolderName/code.urmom
